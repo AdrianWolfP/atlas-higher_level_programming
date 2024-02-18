@@ -1,5 +1,5 @@
 How to create a new MySQL user
-
+CREATE USER IF NOT EXSITS
 
 How to manage privileges for a 
 user to a database or table

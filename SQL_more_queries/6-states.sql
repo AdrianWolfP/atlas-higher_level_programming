@@ -1,0 +1,2 @@
+-- creates a table with states
+CREATE DATABASE IF NOT EXISTS states(id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, name VARCHAR(256) NOT NULL);
